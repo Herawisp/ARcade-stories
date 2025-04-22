@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zebra" size="1.000000 1.769763" />
+    <ImageTarget name="singa" size="1.000000 1.769763" />
+    <ImageTarget name="paus" size="1.000000 1.769763" />
+    <ImageTarget name="panda" size="1.000000 1.769763" />
+    <ImageTarget name="kura-kura" size="1.000000 1.769763" />
+    <ImageTarget name="Jerapah" size="1.000000 1.769763" />
+    <ImageTarget name="Badak" size="1.000000 1.769763" />
+    <ImageTarget name="Gajah" size="1.000000 1.769231" />
+  </Tracking>
+</QCARConfig>
